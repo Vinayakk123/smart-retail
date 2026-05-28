@@ -1,0 +1,483 @@
+Date,Product Name,Category,Cost Price,Selling Price,Quantity
+2026-04-16,Chips,Snacks,15.0,30.0,20
+2026-03-06,Soap,Personal Care,20.0,35.0,55
+2026-01-06,Milk,Dairy,25.0,35.0,38
+2026-03-18,Premium Coffee,Beverages,200.0,350.0,15
+2026-03-16,Shampoo,Personal Care,70.0,110.0,49
+2026-01-25,Chips,Snacks,15.0,30.0,75
+2026-04-18,Soap,Personal Care,20.0,35.0,13
+2026-02-22,Milk,Dairy,25.0,35.0,49
+2026-02-13,Oil,Groceries,90.0,130.0,45
+2026-04-27,Soap,Personal Care,20.0,35.0,21
+2026-01-11,Rice,Grains,40.0,55.0,52
+2026-04-10,Coffee,Beverages,100.0,150.0,16
+2026-02-18,Rice,Grains,40.0,55.0,20
+2026-04-21,Shampoo,Personal Care,70.0,110.0,30
+2026-03-07,Coffee,Beverages,100.0,150.0,10
+2026-02-24,Rice,Grains,40.0,55.0,55
+2026-04-19,Shampoo,Personal Care,70.0,110.0,27
+2026-02-13,Biscuits,Snacks,10.0,20.0,21
+2026-02-11,Biscuits,Snacks,10.0,20.0,77
+2026-02-25,Tea Powder,Beverages,80.0,120.0,55
+2026-03-19,Chips,Snacks,15.0,30.0,30
+2026-04-09,Shampoo,Personal Care,70.0,110.0,12
+2025-11-01,Old Chips,Snacks,20.0,30.0,0
+2026-01-11,Biscuits,Snacks,10.0,20.0,38
+2026-03-03,Bread,Bakery,20.0,30.0,19
+2026-02-16,Milk,Dairy,25.0,35.0,14
+2026-02-05,Rice,Grains,40.0,55.0,41
+2026-02-12,Soap,Personal Care,20.0,35.0,71
+2026-03-11,Rice,Grains,40.0,55.0,20
+2026-02-06,Tea Powder,Beverages,80.0,120.0,65
+2026-04-28,Coffee,Beverages,100.0,150.0,52
+2026-01-16,Oil,Groceries,90.0,130.0,39
+2026-05-01,Tea Powder,Beverages,80.0,120.0,74
+2026-03-18,Premium Coffee,Beverages,200.0,350.0,18
+2026-04-24,Oil,Groceries,90.0,130.0,73
+2026-04-02,Soap,Personal Care,20.0,35.0,42
+2026-01-09,Coffee,Beverages,100.0,150.0,67
+2026-03-12,Coffee,Beverages,100.0,150.0,66
+2025-10-15,Expired Milk,Dairy,25.0,35.0,0
+2026-03-15,Festival Biscuits,Snacks,10.0,25.0,170
+2026-03-11,Rice,Grains,40.0,55.0,55
+2026-01-31,Soap,Personal Care,20.0,35.0,67
+2026-01-18,Biscuits,Snacks,10.0,20.0,47
+2026-01-15,Chips,Snacks,15.0,30.0,31
+2025-11-01,Old Chips,Snacks,20.0,30.0,0
+2026-04-30,Shampoo,Personal Care,70.0,110.0,32
+2026-01-22,Soap,Personal Care,20.0,35.0,72
+2026-01-14,Chips,Snacks,15.0,30.0,72
+2026-03-22,Milk,Dairy,25.0,35.0,62
+2026-01-24,Bread,Bakery,20.0,30.0,42
+2026-01-07,Oil,Groceries,90.0,130.0,28
+2026-04-09,Chips,Snacks,15.0,30.0,48
+2026-04-28,Milk,Dairy,25.0,35.0,15
+2026-01-02,Coffee,Beverages,100.0,150.0,67
+2026-03-18,Premium Coffee,Beverages,200.0,350.0,10
+2026-02-10,Coffee,Beverages,100.0,150.0,26
+2026-04-11,Rice,Grains,40.0,55.0,43
+2026-02-16,Coffee,Beverages,100.0,150.0,41
+2026-03-29,Shampoo,Personal Care,70.0,110.0,66
+2026-03-10,Bread,Bakery,20.0,30.0,73
+2026-04-17,Chips,Snacks,15.0,30.0,5
+2026-01-26,Shampoo,Personal Care,70.0,110.0,20
+2026-02-11,Chips,Snacks,15.0,30.0,24
+2026-03-24,Oil,Groceries,90.0,130.0,65
+2026-02-19,Bread,Bakery,20.0,30.0,29
+2026-02-25,Bread,Bakery,20.0,30.0,30
+2026-04-08,Biscuits,Snacks,10.0,20.0,58
+2026-02-19,Shampoo,Personal Care,70.0,110.0,22
+2026-02-12,Soap,Personal Care,20.0,35.0,61
+2026-02-02,Coffee,Beverages,100.0,150.0,57
+2026-03-29,Soap,Personal Care,20.0,35.0,64
+2026-01-19,Tea Powder,Beverages,80.0,120.0,36
+2026-04-23,Tea Powder,Beverages,80.0,120.0,25
+2026-03-15,Festival Biscuits,Snacks,10.0,25.0,162
+2026-04-19,Rice,Grains,40.0,55.0,51
+2026-01-15,Chips,Snacks,15.0,30.0,35
+2026-05-01,Coffee,Beverages,100.0,150.0,75
+2026-04-17,Milk,Dairy,25.0,35.0,55
+2026-02-22,Shampoo,Personal Care,70.0,110.0,53
+2026-03-07,Bread,Bakery,20.0,30.0,41
+2026-02-01,Bread,Bakery,20.0,30.0,14
+2026-01-02,Rice,Grains,40.0,55.0,68
+2026-03-10,Soap,Personal Care,20.0,35.0,19
+2026-01-27,Bread,Bakery,20.0,30.0,6
+2026-03-14,Rice,Grains,40.0,55.0,19
+2026-01-03,Milk,Dairy,25.0,35.0,8
+2026-04-26,Rice,Grains,40.0,55.0,7
+2026-03-24,Shampoo,Personal Care,70.0,110.0,13
+2026-04-26,Bread,Bakery,20.0,30.0,78
+2026-04-17,Coffee,Beverages,100.0,150.0,26
+2026-03-03,Milk,Dairy,25.0,35.0,79
+2026-04-21,Biscuits,Snacks,10.0,20.0,43
+2026-03-10,Discount Rice,Grains,60.0,45.0,18
+2026-02-16,Rice,Grains,40.0,55.0,14
+2026-01-22,Oil,Groceries,90.0,130.0,44
+2026-02-04,Oil,Groceries,90.0,130.0,16
+2026-04-02,Biscuits,Snacks,10.0,20.0,63
+2025-11-01,Old Chips,Snacks,20.0,30.0,0
+2026-01-03,Coffee,Beverages,100.0,150.0,70
+2026-04-25,Chips,Snacks,15.0,30.0,76
+2026-02-22,Rice,Grains,40.0,55.0,56
+2026-04-12,Chips,Snacks,15.0,30.0,70
+2026-02-02,Milk,Dairy,25.0,35.0,7
+2026-03-07,Tea Powder,Beverages,80.0,120.0,33
+2026-03-15,Festival Biscuits,Snacks,10.0,25.0,188
+2026-03-01,Shampoo,Personal Care,70.0,110.0,67
+2026-04-28,Milk,Dairy,25.0,35.0,9
+2026-02-05,Oil,Groceries,90.0,130.0,45
+2026-02-26,Rice,Grains,40.0,55.0,49
+2026-03-24,Tea Powder,Beverages,80.0,120.0,42
+2026-02-02,Milk,Dairy,25.0,35.0,49
+2026-01-04,Tea Powder,Beverages,80.0,120.0,71
+2026-02-06,Tea Powder,Beverages,80.0,120.0,73
+2026-01-04,Oil,Groceries,90.0,130.0,14
+2026-04-14,Coffee,Beverages,100.0,150.0,9
+2026-01-31,Biscuits,Snacks,10.0,20.0,8
+2026-04-14,Oil,Groceries,90.0,130.0,48
+2026-01-12,Soap,Personal Care,20.0,35.0,18
+2026-04-23,Coffee,Beverages,100.0,150.0,27
+2026-03-20,Milk,Dairy,25.0,35.0,66
+2026-02-05,Coffee,Beverages,100.0,150.0,41
+2026-04-01,No Demand Soap,Personal Care,20.0,35.0,0
+2026-03-31,Oil,Groceries,90.0,130.0,24
+2026-03-31,Chips,Snacks,15.0,30.0,24
+2026-02-11,Biscuits,Snacks,10.0,20.0,62
+2026-01-24,Tea Powder,Beverages,80.0,120.0,35
+2026-03-20,Broken Entry,Snacks,,30.0,10
+2026-02-03,Coffee,Beverages,100.0,150.0,43
+2026-01-02,Soap,Personal Care,20.0,35.0,43
+2026-02-15,Oil,Groceries,90.0,130.0,44
+2026-01-07,Milk,Dairy,25.0,35.0,10
+2026-01-06,Shampoo,Personal Care,70.0,110.0,38
+2026-03-01,Tea Powder,Beverages,80.0,120.0,19
+2026-04-19,Rice,Grains,40.0,55.0,52
+2026-04-12,Shampoo,Personal Care,70.0,110.0,52
+2026-01-28,Bread,Bakery,20.0,30.0,70
+2026-02-09,Coffee,Beverages,100.0,150.0,75
+2026-02-04,Shampoo,Personal Care,70.0,110.0,66
+2026-04-15,Rice,Grains,40.0,55.0,31
+2026-03-08,Bread,Bakery,20.0,30.0,77
+2026-04-26,Milk,Dairy,25.0,35.0,24
+2026-02-08,Coffee,Beverages,100.0,150.0,77
+2026-03-10,Biscuits,Snacks,10.0,20.0,52
+2026-04-18,Bread,Bakery,20.0,30.0,18
+2026-02-18,Oil,Groceries,90.0,130.0,35
+2026-03-15,Soap,Personal Care,20.0,35.0,41
+2026-03-17,Bread,Bakery,20.0,30.0,63
+2026-01-11,Soap,Personal Care,20.0,35.0,59
+2026-01-31,Coffee,Beverages,100.0,150.0,54
+2026-04-29,Tea Powder,Beverages,80.0,120.0,19
+2026-02-20,Soap,Personal Care,20.0,35.0,67
+2026-01-08,Rice,Grains,40.0,55.0,8
+2026-01-14,Rice,Grains,40.0,55.0,15
+2026-04-13,Soap,Personal Care,20.0,35.0,45
+2026-02-06,Biscuits,Snacks,10.0,20.0,64
+2026-01-28,Bread,Bakery,20.0,30.0,43
+2026-01-13,Tea Powder,Beverages,80.0,120.0,49
+2026-03-02,Milk,Dairy,25.0,35.0,13
+2026-02-19,Tea Powder,Beverages,80.0,120.0,59
+2026-01-13,Oil,Groceries,90.0,130.0,30
+2026-04-01,Oil,Groceries,90.0,130.0,19
+2026-01-26,Milk,Dairy,25.0,35.0,72
+2026-03-31,Chips,Snacks,15.0,30.0,32
+2026-01-06,Chips,Snacks,15.0,30.0,44
+2026-04-24,Chips,Snacks,15.0,30.0,33
+2026-04-01,No Demand Soap,Personal Care,20.0,35.0,0
+2026-03-31,Biscuits,Snacks,10.0,20.0,63
+2026-04-17,Shampoo,Personal Care,70.0,110.0,39
+2026-01-25,Oil,Groceries,90.0,130.0,35
+2026-03-09,Milk,Dairy,25.0,35.0,62
+2026-03-06,Tea Powder,Beverages,80.0,120.0,64
+2026-01-15,Coffee,Beverages,100.0,150.0,47
+2026-03-23,Soap,Personal Care,20.0,35.0,68
+2025-10-15,Expired Milk,Dairy,25.0,35.0,0
+2026-02-06,Biscuits,Snacks,10.0,20.0,70
+2026-04-28,Rice,Grains,40.0,55.0,34
+2026-02-07,Shampoo,Personal Care,70.0,110.0,55
+2026-04-11,Tea Powder,Beverages,80.0,120.0,38
+2026-01-17,Milk,Dairy,25.0,35.0,68
+2026-04-17,Tea Powder,Beverages,80.0,120.0,66
+2026-04-18,Rice,Grains,40.0,55.0,66
+2026-02-03,Oil,Groceries,90.0,130.0,72
+2026-04-22,Biscuits,Snacks,10.0,20.0,9
+2026-04-06,Coffee,Beverages,100.0,150.0,21
+2026-02-01,Bread,Bakery,20.0,30.0,23
+2026-04-11,Bread,Bakery,20.0,30.0,66
+2026-04-01,No Demand Soap,Personal Care,20.0,35.0,0
+2026-02-14,Soap,Personal Care,20.0,35.0,24
+2026-01-06,Oil,Groceries,90.0,130.0,65
+2026-03-18,Premium Coffee,Beverages,200.0,350.0,7
+2026-02-24,Chips,Snacks,15.0,30.0,75
+2026-02-20,Biscuits,Snacks,10.0,20.0,72
+2026-03-01,Shampoo,Personal Care,70.0,110.0,20
+2026-01-07,Coffee,Beverages,100.0,150.0,77
+2026-04-08,Chips,Snacks,15.0,30.0,17
+2026-04-09,Chips,Snacks,15.0,30.0,13
+2026-04-15,Shampoo,Personal Care,70.0,110.0,20
+2026-03-28,Coffee,Beverages,100.0,150.0,35
+2026-02-25,Milk,Dairy,25.0,35.0,73
+2026-03-15,Festival Biscuits,Snacks,10.0,25.0,193
+2026-01-30,Soap,Personal Care,20.0,35.0,38
+2026-03-29,Oil,Groceries,90.0,130.0,32
+2026-03-06,Oil,Groceries,90.0,130.0,52
+2026-03-18,Chips,Snacks,15.0,30.0,60
+2026-04-03,Coffee,Beverages,100.0,150.0,17
+2026-04-11,Chips,Snacks,15.0,30.0,12
+2026-04-15,Soap,Personal Care,20.0,35.0,49
+2026-01-30,Coffee,Beverages,100.0,150.0,60
+2026-01-10,Biscuits,Snacks,10.0,20.0,8
+2025-11-01,Old Chips,Snacks,20.0,30.0,0
+2026-02-10,Rice,Grains,40.0,55.0,73
+2026-04-14,Coffee,Beverages,100.0,150.0,20
+2026-03-14,Coffee,Beverages,100.0,150.0,54
+2026-03-08,Milk,Dairy,25.0,35.0,48
+2026-03-31,Tea Powder,Beverages,80.0,120.0,51
+2026-03-02,Shampoo,Personal Care,70.0,110.0,41
+2026-04-26,Shampoo,Personal Care,70.0,110.0,73
+2026-04-06,Biscuits,Snacks,10.0,20.0,65
+2026-01-12,Chips,Snacks,15.0,30.0,34
+2026-03-25,Soap,Personal Care,20.0,35.0,57
+2026-04-01,Biscuits,Snacks,10.0,20.0,68
+2026-04-27,Chips,Snacks,15.0,30.0,7
+2026-01-13,Coffee,Beverages,100.0,150.0,62
+2026-03-28,Milk,Dairy,25.0,35.0,46
+2026-01-14,Soap,Personal Care,20.0,35.0,56
+2026-02-19,Milk,Dairy,25.0,35.0,45
+2026-02-13,Rice,Grains,40.0,55.0,56
+2026-04-09,Coffee,Beverages,100.0,150.0,27
+2026-01-28,Chips,Snacks,15.0,30.0,52
+2026-01-20,Milk,Dairy,25.0,35.0,11
+2026-03-31,Rice,Grains,40.0,55.0,14
+2026-04-18,Tea Powder,Beverages,80.0,120.0,24
+2026-03-23,Chips,Snacks,15.0,30.0,41
+2026-04-08,Coffee,Beverages,100.0,150.0,32
+2026-01-11,Oil,Groceries,90.0,130.0,24
+2026-02-02,Oil,Groceries,90.0,130.0,44
+2026-01-04,Bread,Bakery,20.0,30.0,37
+2026-04-11,Chips,Snacks,15.0,30.0,31
+2026-03-03,Milk,Dairy,25.0,35.0,64
+2026-02-05,Milk,Dairy,25.0,35.0,13
+2026-04-11,Soap,Personal Care,20.0,35.0,10
+2026-02-26,Biscuits,Snacks,10.0,20.0,79
+2026-01-23,Chips,Snacks,15.0,30.0,15
+2026-02-01,Shampoo,Personal Care,70.0,110.0,23
+2026-04-10,Soap,Personal Care,20.0,35.0,79
+2026-02-13,Chips,Snacks,15.0,30.0,25
+2026-03-26,Soap,Personal Care,20.0,35.0,16
+2026-04-01,No Demand Soap,Personal Care,20.0,35.0,0
+2026-02-21,Coffee,Beverages,100.0,150.0,29
+2026-03-07,Tea Powder,Beverages,80.0,120.0,74
+2026-02-11,Tea Powder,Beverages,80.0,120.0,47
+2026-04-11,Biscuits,Snacks,10.0,20.0,37
+2026-01-01,Rice,Grains,40.0,55.0,9
+2026-01-06,Soap,Personal Care,20.0,35.0,66
+2026-04-16,Tea Powder,Beverages,80.0,120.0,54
+2026-02-04,Biscuits,Snacks,10.0,20.0,79
+2026-02-27,Oil,Groceries,90.0,130.0,32
+2026-03-21,Half Data,Snacks,20.0,,5
+2026-04-06,Chips,Snacks,15.0,30.0,52
+2026-01-03,Milk,Dairy,25.0,35.0,67
+2026-03-04,Chips,Snacks,15.0,30.0,59
+2026-01-22,Soap,Personal Care,20.0,35.0,15
+2026-04-10,Bread,Bakery,20.0,30.0,39
+2026-01-08,Coffee,Beverages,100.0,150.0,23
+2026-04-21,Shampoo,Personal Care,70.0,110.0,64
+2026-02-28,Coffee,Beverages,100.0,150.0,62
+2026-02-27,Shampoo,Personal Care,70.0,110.0,29
+2026-02-05,Soap,Personal Care,20.0,35.0,56
+2026-01-24,Coffee,Beverages,100.0,150.0,45
+2026-03-18,Biscuits,Snacks,10.0,20.0,14
+2026-01-06,Coffee,Beverages,100.0,150.0,47
+2026-04-25,Milk,Dairy,25.0,35.0,16
+2026-04-22,Shampoo,Personal Care,70.0,110.0,65
+2025-11-01,Old Chips,Snacks,20.0,30.0,0
+2026-04-07,Rice,Grains,40.0,55.0,9
+2026-03-21,Coffee,Beverages,100.0,150.0,34
+2026-03-13,Biscuits,Snacks,10.0,20.0,62
+2026-04-26,Milk,Dairy,25.0,35.0,13
+2026-01-04,Chips,Snacks,15.0,30.0,12
+2026-01-27,Soap,Personal Care,20.0,35.0,67
+2026-03-06,Tea Powder,Beverages,80.0,120.0,77
+2026-01-22,Soap,Personal Care,20.0,35.0,72
+2026-02-04,Milk,Dairy,25.0,35.0,66
+2026-03-22,Shampoo,Personal Care,70.0,110.0,14
+2026-01-20,Soap,Personal Care,20.0,35.0,17
+2026-04-19,Biscuits,Snacks,10.0,20.0,11
+2026-02-27,Biscuits,Snacks,10.0,20.0,73
+2026-01-26,Shampoo,Personal Care,70.0,110.0,28
+2026-04-07,Bread,Bakery,20.0,30.0,45
+2026-01-28,Milk,Dairy,25.0,35.0,38
+2026-01-31,Tea Powder,Beverages,80.0,120.0,68
+2026-01-22,Oil,Groceries,90.0,130.0,72
+2026-04-07,Soap,Personal Care,20.0,35.0,28
+2026-01-22,Rice,Grains,40.0,55.0,26
+2026-04-16,Oil,Groceries,90.0,130.0,48
+2026-04-18,Coffee,Beverages,100.0,150.0,49
+2026-02-13,Milk,Dairy,25.0,35.0,19
+2026-01-25,Milk,Dairy,25.0,35.0,61
+2026-02-04,Chips,Snacks,15.0,30.0,26
+2026-01-29,Shampoo,Personal Care,70.0,110.0,17
+2026-01-30,Biscuits,Snacks,10.0,20.0,11
+2026-03-28,Chips,Snacks,15.0,30.0,19
+2026-02-09,Coffee,Beverages,100.0,150.0,13
+2026-04-24,Shampoo,Personal Care,70.0,110.0,20
+2026-01-17,Soap,Personal Care,20.0,35.0,67
+2026-03-04,Shampoo,Personal Care,70.0,110.0,67
+2026-02-05,Shampoo,Personal Care,70.0,110.0,32
+2026-01-16,Oil,Groceries,90.0,130.0,31
+2026-03-28,Bread,Bakery,20.0,30.0,57
+2026-02-02,Shampoo,Personal Care,70.0,110.0,13
+2025-10-15,Expired Milk,Dairy,25.0,35.0,0
+2026-03-04,Tea Powder,Beverages,80.0,120.0,76
+2026-04-06,Milk,Dairy,25.0,35.0,48
+2026-01-24,Bread,Bakery,20.0,30.0,10
+2026-04-20,Shampoo,Personal Care,70.0,110.0,52
+2026-03-14,Milk,Dairy,25.0,35.0,5
+2026-03-31,Rice,Grains,40.0,55.0,73
+2026-04-20,Coffee,Beverages,100.0,150.0,66
+2026-04-01,Biscuits,Snacks,10.0,20.0,10
+2026-01-27,Rice,Grains,40.0,55.0,10
+2026-01-02,Rice,Grains,40.0,55.0,17
+2026-03-16,Coffee,Beverages,100.0,150.0,9
+2026-01-15,Coffee,Beverages,100.0,150.0,29
+2026-01-12,Chips,Snacks,15.0,30.0,63
+2026-04-20,Oil,Groceries,90.0,130.0,49
+2026-04-04,Rice,Grains,40.0,55.0,14
+2026-02-19,Milk,Dairy,25.0,35.0,50
+2026-03-20,Coffee,Beverages,100.0,150.0,68
+2026-01-15,Oil,Groceries,90.0,130.0,9
+2026-02-10,Coffee,Beverages,100.0,150.0,18
+2026-02-11,Biscuits,Snacks,10.0,20.0,57
+2026-01-14,Oil,Groceries,90.0,130.0,78
+2026-01-16,Bread,Bakery,20.0,30.0,13
+2026-01-22,Oil,Groceries,90.0,130.0,14
+2026-02-22,Rice,Grains,40.0,55.0,63
+2026-03-13,Oil,Groceries,90.0,130.0,58
+2026-03-18,Biscuits,Snacks,10.0,20.0,60
+2026-02-24,Rice,Grains,40.0,55.0,51
+2026-04-26,Coffee,Beverages,100.0,150.0,77
+2026-01-04,Chips,Snacks,15.0,30.0,31
+2026-01-11,Bread,Bakery,20.0,30.0,55
+2026-01-21,Tea Powder,Beverages,80.0,120.0,15
+2026-01-18,Oil,Groceries,90.0,130.0,17
+2026-01-31,Soap,Personal Care,20.0,35.0,26
+2026-03-04,Tea Powder,Beverages,80.0,120.0,16
+2026-03-03,Oil,Groceries,90.0,130.0,49
+2026-04-22,Tea Powder,Beverages,80.0,120.0,40
+2026-03-19,Oil,Groceries,90.0,130.0,13
+2026-01-09,Tea Powder,Beverages,80.0,120.0,68
+2026-04-05,Tea Powder,Beverages,80.0,120.0,27
+2026-04-29,Biscuits,Snacks,10.0,20.0,18
+2026-02-26,Soap,Personal Care,20.0,35.0,72
+2026-01-10,Chips,Snacks,15.0,30.0,61
+2026-04-12,Tea Powder,Beverages,80.0,120.0,25
+2026-02-24,Milk,Dairy,25.0,35.0,67
+2026-01-17,Coffee,Beverages,100.0,150.0,8
+2026-03-05,Biscuits,Snacks,10.0,20.0,59
+2026-03-15,Festival Biscuits,Snacks,10.0,25.0,217
+2026-04-10,Soap,Personal Care,20.0,35.0,59
+2026-01-25,Coffee,Beverages,100.0,150.0,51
+2026-02-03,Shampoo,Personal Care,70.0,110.0,26
+2026-01-08,Shampoo,Personal Care,70.0,110.0,65
+2026-03-24,Biscuits,Snacks,10.0,20.0,67
+2026-01-02,Biscuits,Snacks,10.0,20.0,33
+2026-05-01,Milk,Dairy,25.0,35.0,17
+2026-01-11,Bread,Bakery,20.0,30.0,16
+2026-03-10,Discount Rice,Grains,60.0,45.0,21
+2026-03-04,Shampoo,Personal Care,70.0,110.0,11
+2026-01-30,Rice,Grains,40.0,55.0,51
+2026-02-08,Bread,Bakery,20.0,30.0,50
+2026-03-22,Oil,Groceries,90.0,130.0,77
+2026-02-20,Chips,Snacks,15.0,30.0,34
+2026-05-01,Oil,Groceries,90.0,130.0,58
+2026-03-22,Milk,Dairy,25.0,35.0,12
+2026-04-05,Rice,Grains,40.0,55.0,54
+2026-02-09,Rice,Grains,40.0,55.0,69
+2026-02-10,Bread,Bakery,20.0,30.0,24
+2026-04-01,No Demand Soap,Personal Care,20.0,35.0,0
+2026-03-10,Discount Rice,Grains,60.0,45.0,11
+2026-03-13,Oil,Groceries,90.0,130.0,33
+2026-02-09,Rice,Grains,40.0,55.0,63
+2025-10-15,Expired Milk,Dairy,25.0,35.0,0
+2026-01-08,Soap,Personal Care,20.0,35.0,33
+2026-01-26,Tea Powder,Beverages,80.0,120.0,13
+2026-04-23,Oil,Groceries,90.0,130.0,80
+2026-04-08,Chips,Snacks,15.0,30.0,74
+2026-03-26,Rice,Grains,40.0,55.0,58
+2026-03-11,Bread,Bakery,20.0,30.0,48
+2026-01-25,Oil,Groceries,90.0,130.0,34
+2026-04-02,Biscuits,Snacks,10.0,20.0,46
+2026-02-27,Soap,Personal Care,20.0,35.0,15
+2026-03-23,Rice,Grains,40.0,55.0,24
+2026-02-21,Shampoo,Personal Care,70.0,110.0,71
+2026-03-10,Discount Rice,Grains,60.0,45.0,31
+2025-10-15,Expired Milk,Dairy,25.0,35.0,0
+2026-04-30,Tea Powder,Beverages,80.0,120.0,61
+2026-02-10,Bread,Bakery,20.0,30.0,44
+2026-03-16,Shampoo,Personal Care,70.0,110.0,59
+2026-03-27,Chips,Snacks,15.0,30.0,36
+2026-04-15,Biscuits,Snacks,10.0,20.0,41
+2026-01-03,Chips,Snacks,15.0,30.0,15
+2026-04-13,Coffee,Beverages,100.0,150.0,70
+2026-01-10,Milk,Dairy,25.0,35.0,71
+2026-03-11,Soap,Personal Care,20.0,35.0,15
+2026-04-10,Biscuits,Snacks,10.0,20.0,30
+2026-03-06,Chips,Snacks,15.0,30.0,42
+2026-03-21,Chips,Snacks,15.0,30.0,73
+2026-04-02,Oil,Groceries,90.0,130.0,32
+2026-02-02,Shampoo,Personal Care,70.0,110.0,64
+2026-03-27,Biscuits,Snacks,10.0,20.0,77
+2026-04-24,Soap,Personal Care,20.0,35.0,31
+2026-02-25,Milk,Dairy,25.0,35.0,46
+2026-03-15,Milk,Dairy,25.0,35.0,43
+2026-01-17,Tea Powder,Beverages,80.0,120.0,20
+2026-03-10,Coffee,Beverages,100.0,150.0,18
+2026-04-08,Oil,Groceries,90.0,130.0,47
+2026-05-01,Chips,Snacks,15.0,30.0,64
+2026-03-18,Premium Coffee,Beverages,200.0,350.0,8
+2026-02-24,Soap,Personal Care,20.0,35.0,9
+2026-01-25,Milk,Dairy,25.0,35.0,67
+2026-01-02,Oil,Groceries,90.0,130.0,67
+2026-03-23,Rice,Grains,40.0,55.0,7
+2026-02-23,Tea Powder,Beverages,80.0,120.0,67
+2026-02-18,Milk,Dairy,25.0,35.0,54
+2026-01-24,Oil,Groceries,90.0,130.0,49
+2026-01-15,Tea Powder,Beverages,80.0,120.0,22
+2026-01-04,Shampoo,Personal Care,70.0,110.0,19
+2026-01-08,Chips,Snacks,15.0,30.0,67
+2026-02-12,Oil,Groceries,90.0,130.0,46
+2026-02-05,Milk,Dairy,25.0,35.0,70
+2026-04-04,Soap,Personal Care,20.0,35.0,7
+2026-03-10,Discount Rice,Grains,60.0,45.0,39
+2026-01-20,Soap,Personal Care,20.0,35.0,22
+2026-04-14,Milk,Dairy,25.0,35.0,34
+2026-03-28,Biscuits,Snacks,10.0,20.0,22
+2026-03-07,Oil,Groceries,90.0,130.0,49
+2026-02-17,Tea Powder,Beverages,80.0,120.0,14
+2026-03-13,Oil,Groceries,90.0,130.0,30
+2026-02-06,Soap,Personal Care,20.0,35.0,45
+2026-01-24,Milk,Dairy,25.0,35.0,26
+2026-03-24,Milk,Dairy,25.0,35.0,45
+2026-03-28,Tea Powder,Beverages,80.0,120.0,17
+2026-03-10,Shampoo,Personal Care,70.0,110.0,11
+2026-01-12,Bread,Bakery,20.0,30.0,13
+2026-02-21,Oil,Groceries,90.0,130.0,72
+2026-02-17,Biscuits,Snacks,10.0,20.0,6
+2026-01-16,Tea Powder,Beverages,80.0,120.0,27
+2026-03-26,Oil,Groceries,90.0,130.0,38
+2026-04-27,Bread,Bakery,20.0,30.0,24
+2026-03-29,Biscuits,Snacks,10.0,20.0,73
+2026-03-12,Bread,Bakery,20.0,30.0,30
+2026-04-16,Chips,Snacks,15.0,30.0,40
+2026-01-30,Bread,Bakery,20.0,30.0,56
+2026-03-16,Coffee,Beverages,100.0,150.0,37
+2026-01-23,Coffee,Beverages,100.0,150.0,7
+2026-04-24,Tea Powder,Beverages,80.0,120.0,65
+2026-01-28,Chips,Snacks,15.0,30.0,48
+2026-04-05,Tea Powder,Beverages,80.0,120.0,32
+2026-03-08,Bread,Bakery,20.0,30.0,48
+2026-01-18,Oil,Groceries,90.0,130.0,28
+2026-04-11,Shampoo,Personal Care,70.0,110.0,72
+2026-04-02,Milk,Dairy,25.0,35.0,51
+2026-03-26,Chips,Snacks,15.0,30.0,65
+2026-01-11,Milk,Dairy,25.0,35.0,80
+2026-04-05,Soap,Personal Care,20.0,35.0,29
+2026-01-19,Biscuits,Snacks,10.0,20.0,8
+2026-03-18,Soap,Personal Care,20.0,35.0,12
+2026-03-17,Tea Powder,Beverages,80.0,120.0,45
+2026-02-13,Tea Powder,Beverages,80.0,120.0,15
+2026-02-12,Soap,Personal Care,20.0,35.0,21
+2026-02-18,Oil,Groceries,90.0,130.0,13
+2026-03-28,Shampoo,Personal Care,70.0,110.0,6
+2026-04-30,Milk,Dairy,25.0,35.0,13
+2026-02-10,Rice,Grains,40.0,55.0,75
+2026-02-18,Coffee,Beverages,100.0,150.0,36
+2026-04-07,Rice,Grains,40.0,55.0,16
+2026-02-17,Shampoo,Personal Care,70.0,110.0,39
+2026-04-22,Milk,Dairy,25.0,35.0,60
+2026-02-11,Oil,Groceries,90.0,130.0,8
+2026-03-19,Oil,Groceries,90.0,130.0,7
+2026-03-21,Chips,Snacks,15.0,30.0,25
+2026-03-30,Soap,Personal Care,20.0,35.0,63

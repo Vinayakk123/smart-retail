@@ -1,0 +1,483 @@
+Date,Product Name,Category,Cost Price,Selling Price,Quantity
+2026-03-24,Facewash,Personal Care,90.0,140.0,40
+2026-02-18,Green Tea,Beverages,120.0,200.0,5
+2026-04-19,Ghee,Groceries,450.0,650.0,43
+2026-04-02,Green Tea,Beverages,120.0,200.0,65
+2026-02-01,Muffins,Bakery,25.0,45.0,44
+2026-03-09,Atta,Grains,35.0,50.0,44
+2026-04-21,Green Tea,Beverages,120.0,200.0,55
+2026-02-11,Namkeen,Snacks,20.0,35.0,24
+2026-03-20,Namkeen,Snacks,20.0,35.0,52
+2026-04-16,Muffins,Bakery,25.0,45.0,53
+2026-02-27,Toothpaste,Personal Care,60.0,95.0,58
+2026-02-17,Muffins,Bakery,25.0,45.0,11
+2026-04-03,Facewash,Personal Care,90.0,140.0,41
+2026-02-20,Paneer,Dairy,180.0,260.0,52
+2026-03-04,Cold Drink,Beverages,30.0,55.0,23
+2026-04-19,Cold Drink,Beverages,30.0,55.0,52
+2026-04-21,Green Tea,Beverages,120.0,200.0,11
+2026-03-25,Organic Ghee,Groceries,500.0,900.0,9
+2026-03-25,Organic Ghee,Groceries,500.0,900.0,15
+2026-04-30,Cold Drink,Beverages,30.0,55.0,55
+2026-03-27,Green Tea,Beverages,120.0,200.0,9
+2026-02-15,Namkeen,Snacks,20.0,35.0,52
+2026-03-02,Green Tea,Beverages,120.0,200.0,61
+2026-02-22,Facewash,Personal Care,90.0,140.0,20
+2026-02-20,Toothpaste,Personal Care,60.0,95.0,19
+2026-03-25,Organic Ghee,Groceries,500.0,900.0,15
+2026-03-30,Cold Drink,Beverages,30.0,55.0,21
+2026-03-08,Curd,Dairy,40.0,60.0,64
+2026-04-26,Ghee,Groceries,450.0,650.0,19
+2026-03-28,Namkeen,Snacks,20.0,35.0,52
+2026-03-28,Atta,Grains,35.0,50.0,12
+2026-03-02,Namkeen,Snacks,20.0,35.0,22
+2026-04-14,Muffins,Bakery,25.0,45.0,66
+2026-03-11,Facewash,Personal Care,90.0,140.0,25
+2026-02-28,Cold Drink,Beverages,30.0,55.0,22
+2026-02-24,Namkeen,Snacks,20.0,35.0,68
+2026-03-17,Cold Drink,Beverages,30.0,55.0,13
+2026-03-24,Facewash,Personal Care,90.0,140.0,9
+2026-03-10,Namkeen,Snacks,20.0,35.0,9
+2026-02-02,Namkeen,Snacks,20.0,35.0,39
+2026-02-10,Muffins,Bakery,25.0,45.0,41
+2026-03-22,Cheap Namkeen,Snacks,40.0,25.0,33
+2026-02-25,Green Tea,Beverages,120.0,200.0,33
+2026-04-04,Toothpaste,Personal Care,60.0,95.0,5
+2026-04-25,Muffins,Bakery,25.0,45.0,3
+2026-04-05,Facewash,Personal Care,90.0,140.0,47
+2026-02-19,Cold Drink,Beverages,30.0,55.0,7
+2026-03-01,Namkeen,Snacks,20.0,35.0,6
+2026-04-18,Atta,Grains,35.0,50.0,6
+2026-02-18,Muffins,Bakery,25.0,45.0,36
+2026-03-08,Curd,Dairy,40.0,60.0,17
+2026-03-06,Muffins,Bakery,25.0,45.0,51
+2026-03-16,Ghee,Groceries,450.0,650.0,59
+2026-02-18,Namkeen,Snacks,20.0,35.0,48
+2026-02-02,Namkeen,Snacks,20.0,35.0,39
+2026-03-10,Toothpaste,Personal Care,60.0,95.0,29
+2026-02-23,Facewash,Personal Care,90.0,140.0,47
+2026-03-19,Ghee,Groceries,450.0,650.0,63
+2026-04-09,Cold Drink,Beverages,30.0,55.0,13
+2026-04-17,Ghee,Groceries,450.0,650.0,44
+2026-05-01,Ghee,Groceries,450.0,650.0,13
+2025-12-10,Old Muffins,Bakery,25.0,45.0,0
+2026-03-07,Paneer,Dairy,180.0,260.0,32
+2026-02-24,Muffins,Bakery,25.0,45.0,66
+2026-02-14,Paneer,Dairy,180.0,260.0,65
+2026-03-12,Green Tea,Beverages,120.0,200.0,14
+2026-04-08,Paneer,Dairy,180.0,260.0,37
+2026-04-18,Atta,Grains,35.0,50.0,55
+2026-03-30,Curd,Dairy,40.0,60.0,55
+2026-02-07,Atta,Grains,35.0,50.0,50
+2026-02-06,Cold Drink,Beverages,30.0,55.0,8
+2026-03-18,Toothpaste,Personal Care,60.0,95.0,45
+2026-04-09,Paneer,Dairy,180.0,260.0,70
+2026-02-08,Paneer,Dairy,180.0,260.0,65
+2026-02-27,Atta,Grains,35.0,50.0,7
+2026-03-23,Facewash,Personal Care,90.0,140.0,9
+2026-03-11,Muffins,Bakery,25.0,45.0,20
+2026-04-09,Curd,Dairy,40.0,60.0,37
+2026-02-15,Ghee,Groceries,450.0,650.0,25
+2026-02-01,Toothpaste,Personal Care,60.0,95.0,41
+2026-04-03,Cold Drink,Beverages,30.0,55.0,4
+2026-04-07,Muffins,Bakery,25.0,45.0,10
+2026-05-01,Curd,Dairy,40.0,60.0,54
+2026-02-14,Facewash,Personal Care,90.0,140.0,50
+2025-12-10,Old Muffins,Bakery,25.0,45.0,0
+2026-02-09,Muffins,Bakery,25.0,45.0,33
+2026-03-16,Namkeen,Snacks,20.0,35.0,63
+2026-02-20,Facewash,Personal Care,90.0,140.0,46
+2026-03-29,Paneer,Dairy,180.0,260.0,33
+2026-03-20,Paneer,Dairy,180.0,260.0,123
+2026-04-17,Namkeen,Snacks,20.0,35.0,65
+2026-03-12,Ghee,Groceries,450.0,650.0,40
+2026-03-01,Green Tea,Beverages,120.0,200.0,46
+2026-02-08,Toothpaste,Personal Care,60.0,95.0,27
+2026-02-22,Namkeen,Snacks,20.0,35.0,68
+2026-02-12,Namkeen,Snacks,20.0,35.0,40
+2026-04-09,Atta,Grains,35.0,50.0,20
+2026-03-29,Green Tea,Beverages,120.0,200.0,62
+2026-03-13,Cold Drink,Beverages,30.0,55.0,23
+2026-03-27,Atta,Grains,35.0,50.0,47
+2026-02-04,Curd,Dairy,40.0,60.0,36
+2026-04-21,Toothpaste,Personal Care,60.0,95.0,40
+2026-04-15,Namkeen,Snacks,20.0,35.0,68
+2026-03-25,Organic Ghee,Groceries,500.0,900.0,14
+2026-03-12,Facewash,Personal Care,90.0,140.0,34
+2026-04-05,Ghee,Groceries,450.0,650.0,16
+2026-03-14,Ghee,Groceries,450.0,650.0,41
+2026-04-18,Curd,Dairy,40.0,60.0,47
+2026-03-22,Cheap Namkeen,Snacks,40.0,25.0,31
+2026-02-17,Green Tea,Beverages,120.0,200.0,64
+2026-03-19,Paneer,Dairy,180.0,260.0,54
+2026-03-27,Cold Drink,Beverages,30.0,55.0,62
+2026-03-12,Muffins,Bakery,25.0,45.0,37
+2026-04-01,Ghee,Groceries,450.0,650.0,37
+2026-04-29,Muffins,Bakery,25.0,45.0,64
+2026-02-17,Ghee,Groceries,450.0,650.0,4
+2026-04-04,Cold Drink,Beverages,30.0,55.0,54
+2026-03-29,Muffins,Bakery,25.0,45.0,11
+2026-03-20,Paneer,Dairy,180.0,260.0,168
+2026-02-07,Atta,Grains,35.0,50.0,11
+2026-02-21,Atta,Grains,35.0,50.0,47
+2026-04-20,Green Tea,Beverages,120.0,200.0,49
+2026-03-19,Curd,Dairy,40.0,60.0,8
+2026-04-29,Ghee,Groceries,450.0,650.0,33
+2026-04-24,Cold Drink,Beverages,30.0,55.0,26
+2026-03-13,Paneer,Dairy,180.0,260.0,53
+2026-02-10,Ghee,Groceries,450.0,650.0,56
+2026-03-15,Toothpaste,Personal Care,60.0,95.0,67
+2026-02-22,Facewash,Personal Care,90.0,140.0,5
+2026-03-08,Paneer,Dairy,180.0,260.0,25
+2026-03-15,Curd,Dairy,40.0,60.0,15
+2026-04-01,No Demand Toothpaste,Personal Care,60.0,95.0,0
+2026-04-08,Ghee,Groceries,450.0,650.0,33
+2026-03-24,Namkeen,Snacks,20.0,35.0,52
+2026-04-21,Ghee,Groceries,450.0,650.0,6
+2026-03-29,Green Tea,Beverages,120.0,200.0,33
+2026-02-23,Curd,Dairy,40.0,60.0,61
+2026-03-27,Toothpaste,Personal Care,60.0,95.0,17
+2026-04-12,Facewash,Personal Care,90.0,140.0,10
+2026-04-27,Facewash,Personal Care,90.0,140.0,58
+2026-04-23,Ghee,Groceries,450.0,650.0,34
+2026-04-03,Green Tea,Beverages,120.0,200.0,64
+2026-03-07,Atta,Grains,35.0,50.0,70
+2026-04-11,Cold Drink,Beverages,30.0,55.0,38
+2026-03-09,Toothpaste,Personal Care,60.0,95.0,46
+2026-02-19,Muffins,Bakery,25.0,45.0,61
+2026-02-15,Green Tea,Beverages,120.0,200.0,42
+2026-04-03,Namkeen,Snacks,20.0,35.0,59
+2026-04-08,Cold Drink,Beverages,30.0,55.0,69
+2026-03-29,Curd,Dairy,40.0,60.0,17
+2026-03-13,Namkeen,Snacks,20.0,35.0,36
+2026-04-30,Atta,Grains,35.0,50.0,7
+2026-04-30,Muffins,Bakery,25.0,45.0,3
+2025-12-10,Old Muffins,Bakery,25.0,45.0,0
+2026-02-26,Cold Drink,Beverages,30.0,55.0,26
+2026-03-25,Curd,Dairy,40.0,60.0,5
+2026-03-24,Facewash,Personal Care,90.0,140.0,66
+2026-02-08,Atta,Grains,35.0,50.0,51
+2026-02-05,Toothpaste,Personal Care,60.0,95.0,67
+2026-02-03,Ghee,Groceries,450.0,650.0,55
+2026-04-09,Green Tea,Beverages,120.0,200.0,57
+2025-12-10,Old Muffins,Bakery,25.0,45.0,0
+2026-04-08,Toothpaste,Personal Care,60.0,95.0,6
+2026-03-20,Toothpaste,Personal Care,60.0,95.0,65
+2026-03-29,Facewash,Personal Care,90.0,140.0,52
+2025-11-25,Expired Curd,Dairy,40.0,60.0,0
+2026-03-11,Cold Drink,Beverages,30.0,55.0,56
+2026-03-28,Cold Drink,Beverages,30.0,55.0,49
+2026-04-16,Namkeen,Snacks,20.0,35.0,10
+2026-03-05,Green Tea,Beverages,120.0,200.0,33
+2026-02-01,Cold Drink,Beverages,30.0,55.0,44
+2026-02-02,Toothpaste,Personal Care,60.0,95.0,24
+2026-05-02,Ghee,Groceries,450.0,650.0,42
+2026-02-16,Facewash,Personal Care,90.0,140.0,5
+2026-04-08,Toothpaste,Personal Care,60.0,95.0,70
+2026-04-01,No Demand Toothpaste,Personal Care,60.0,95.0,0
+2026-02-24,Green Tea,Beverages,120.0,200.0,61
+2025-12-10,Old Muffins,Bakery,25.0,45.0,0
+2026-02-13,Green Tea,Beverages,120.0,200.0,7
+2026-02-13,Toothpaste,Personal Care,60.0,95.0,18
+2026-04-01,Green Tea,Beverages,120.0,200.0,60
+2026-04-10,Paneer,Dairy,180.0,260.0,33
+2026-04-29,Cold Drink,Beverages,30.0,55.0,22
+2026-02-15,Cold Drink,Beverages,30.0,55.0,62
+2026-02-03,Facewash,Personal Care,90.0,140.0,20
+2026-02-03,Toothpaste,Personal Care,60.0,95.0,35
+2026-02-06,Paneer,Dairy,180.0,260.0,50
+2025-11-25,Expired Curd,Dairy,40.0,60.0,0
+2026-02-26,Cold Drink,Beverages,30.0,55.0,20
+2026-04-26,Curd,Dairy,40.0,60.0,50
+2026-04-30,Cold Drink,Beverages,30.0,55.0,36
+2026-04-27,Facewash,Personal Care,90.0,140.0,60
+2026-04-23,Facewash,Personal Care,90.0,140.0,67
+2026-04-18,Namkeen,Snacks,20.0,35.0,40
+2026-03-30,Green Tea,Beverages,120.0,200.0,70
+2026-02-09,Muffins,Bakery,25.0,45.0,19
+2026-02-04,Ghee,Groceries,450.0,650.0,5
+2026-03-03,Cold Drink,Beverages,30.0,55.0,18
+2026-02-12,Curd,Dairy,40.0,60.0,13
+2026-04-08,Muffins,Bakery,25.0,45.0,47
+2026-04-24,Paneer,Dairy,180.0,260.0,62
+2026-04-24,Ghee,Groceries,450.0,650.0,14
+2026-03-11,Paneer,Dairy,180.0,260.0,70
+2026-02-14,Toothpaste,Personal Care,60.0,95.0,21
+2026-04-16,Namkeen,Snacks,20.0,35.0,53
+2026-02-02,Paneer,Dairy,180.0,260.0,6
+2026-03-12,Ghee,Groceries,450.0,650.0,65
+2026-02-08,Facewash,Personal Care,90.0,140.0,20
+2026-04-09,Green Tea,Beverages,120.0,200.0,67
+2026-04-27,Namkeen,Snacks,20.0,35.0,31
+2026-03-31,Muffins,Bakery,25.0,45.0,36
+2026-02-27,Muffins,Bakery,25.0,45.0,46
+2026-04-28,Atta,Grains,35.0,50.0,69
+2026-05-01,Facewash,Personal Care,90.0,140.0,54
+2026-04-02,Toothpaste,Personal Care,60.0,95.0,15
+2026-04-27,Cold Drink,Beverages,30.0,55.0,16
+2026-03-20,Cold Drink,Beverages,30.0,55.0,43
+2026-02-11,Toothpaste,Personal Care,60.0,95.0,54
+2026-04-03,Cold Drink,Beverages,30.0,55.0,70
+2026-03-21,Cold Drink,Beverages,30.0,55.0,22
+2026-02-10,Cold Drink,Beverages,30.0,55.0,69
+2026-04-01,Namkeen,Snacks,20.0,35.0,69
+2026-02-07,Curd,Dairy,40.0,60.0,28
+2026-02-16,Paneer,Dairy,180.0,260.0,3
+2026-02-27,Atta,Grains,35.0,50.0,35
+2026-02-28,Ghee,Groceries,450.0,650.0,9
+2026-02-01,Ghee,Groceries,450.0,650.0,58
+2026-04-22,Namkeen,Snacks,20.0,35.0,31
+2026-02-13,Green Tea,Beverages,120.0,200.0,23
+2026-04-06,Curd,Dairy,40.0,60.0,68
+2026-02-14,Green Tea,Beverages,120.0,200.0,49
+2026-03-24,Muffins,Bakery,25.0,45.0,24
+2026-03-28,Corrupt Row,Snacks,,30.0,12
+2025-11-25,Expired Curd,Dairy,40.0,60.0,0
+2026-03-22,Cheap Namkeen,Snacks,40.0,25.0,12
+2026-04-13,Namkeen,Snacks,20.0,35.0,13
+2026-04-29,Toothpaste,Personal Care,60.0,95.0,39
+2026-04-12,Curd,Dairy,40.0,60.0,61
+2026-03-08,Muffins,Bakery,25.0,45.0,45
+2026-05-02,Namkeen,Snacks,20.0,35.0,59
+2026-03-30,Ghee,Groceries,450.0,650.0,44
+2026-04-25,Cold Drink,Beverages,30.0,55.0,5
+2026-03-14,Muffins,Bakery,25.0,45.0,64
+2026-04-14,Namkeen,Snacks,20.0,35.0,6
+2026-04-09,Green Tea,Beverages,120.0,200.0,34
+2026-03-06,Atta,Grains,35.0,50.0,13
+2026-03-08,Ghee,Groceries,450.0,650.0,41
+2026-04-25,Ghee,Groceries,450.0,650.0,34
+2026-03-05,Muffins,Bakery,25.0,45.0,65
+2026-02-13,Cold Drink,Beverages,30.0,55.0,62
+2026-04-22,Paneer,Dairy,180.0,260.0,20
+2026-02-27,Namkeen,Snacks,20.0,35.0,63
+2026-02-14,Atta,Grains,35.0,50.0,59
+2026-04-26,Atta,Grains,35.0,50.0,59
+2026-03-09,Namkeen,Snacks,20.0,35.0,57
+2026-03-27,Toothpaste,Personal Care,60.0,95.0,36
+2026-04-21,Ghee,Groceries,450.0,650.0,12
+2026-03-22,Cheap Namkeen,Snacks,40.0,25.0,16
+2026-04-28,Facewash,Personal Care,90.0,140.0,6
+2026-05-01,Curd,Dairy,40.0,60.0,11
+2026-04-15,Toothpaste,Personal Care,60.0,95.0,22
+2026-03-29,Curd,Dairy,40.0,60.0,62
+2026-02-20,Namkeen,Snacks,20.0,35.0,18
+2026-03-06,Ghee,Groceries,450.0,650.0,40
+2026-04-01,No Demand Toothpaste,Personal Care,60.0,95.0,0
+2026-03-03,Curd,Dairy,40.0,60.0,14
+2026-04-04,Cold Drink,Beverages,30.0,55.0,37
+2026-02-20,Cold Drink,Beverages,30.0,55.0,64
+2026-04-09,Cold Drink,Beverages,30.0,55.0,10
+2026-03-20,Paneer,Dairy,180.0,260.0,127
+2026-02-06,Paneer,Dairy,180.0,260.0,70
+2026-02-08,Atta,Grains,35.0,50.0,22
+2026-04-24,Namkeen,Snacks,20.0,35.0,6
+2026-03-02,Atta,Grains,35.0,50.0,4
+2026-03-06,Paneer,Dairy,180.0,260.0,44
+2026-03-31,Toothpaste,Personal Care,60.0,95.0,23
+2026-02-25,Muffins,Bakery,25.0,45.0,52
+2026-04-17,Curd,Dairy,40.0,60.0,23
+2026-03-12,Cold Drink,Beverages,30.0,55.0,15
+2026-03-14,Curd,Dairy,40.0,60.0,38
+2026-04-05,Namkeen,Snacks,20.0,35.0,5
+2026-04-11,Ghee,Groceries,450.0,650.0,51
+2026-04-24,Cold Drink,Beverages,30.0,55.0,51
+2026-02-27,Atta,Grains,35.0,50.0,43
+2026-04-12,Curd,Dairy,40.0,60.0,12
+2026-04-01,Green Tea,Beverages,120.0,200.0,63
+2026-03-10,Green Tea,Beverages,120.0,200.0,23
+2026-04-30,Atta,Grains,35.0,50.0,24
+2026-02-04,Atta,Grains,35.0,50.0,44
+2026-03-10,Ghee,Groceries,450.0,650.0,46
+2026-02-15,Toothpaste,Personal Care,60.0,95.0,59
+2026-02-14,Green Tea,Beverages,120.0,200.0,49
+2026-04-08,Namkeen,Snacks,20.0,35.0,32
+2026-04-04,Cold Drink,Beverages,30.0,55.0,29
+2026-03-27,Cold Drink,Beverages,30.0,55.0,42
+2026-02-16,Green Tea,Beverages,120.0,200.0,4
+2026-02-07,Ghee,Groceries,450.0,650.0,27
+2026-04-25,Curd,Dairy,40.0,60.0,12
+2026-03-12,Atta,Grains,35.0,50.0,9
+2026-04-08,Toothpaste,Personal Care,60.0,95.0,23
+2026-02-16,Green Tea,Beverages,120.0,200.0,26
+2026-03-22,Facewash,Personal Care,90.0,140.0,55
+2026-04-18,Namkeen,Snacks,20.0,35.0,68
+2026-05-01,Curd,Dairy,40.0,60.0,9
+2026-03-03,Curd,Dairy,40.0,60.0,65
+2026-03-27,Green Tea,Beverages,120.0,200.0,35
+2026-02-20,Muffins,Bakery,25.0,45.0,36
+2026-04-09,Facewash,Personal Care,90.0,140.0,33
+2026-04-22,Ghee,Groceries,450.0,650.0,46
+2026-03-22,Muffins,Bakery,25.0,45.0,18
+2026-04-08,Atta,Grains,35.0,50.0,53
+2026-02-01,Muffins,Bakery,25.0,45.0,43
+2026-04-14,Green Tea,Beverages,120.0,200.0,18
+2026-03-28,Namkeen,Snacks,20.0,35.0,70
+2026-03-03,Ghee,Groceries,450.0,650.0,4
+2026-03-20,Namkeen,Snacks,20.0,35.0,65
+2026-04-01,Cold Drink,Beverages,30.0,55.0,48
+2026-04-10,Toothpaste,Personal Care,60.0,95.0,70
+2026-03-26,Atta,Grains,35.0,50.0,57
+2026-03-11,Cold Drink,Beverages,30.0,55.0,70
+2026-02-05,Ghee,Groceries,450.0,650.0,13
+2026-02-09,Cold Drink,Beverages,30.0,55.0,68
+2026-03-15,Paneer,Dairy,180.0,260.0,36
+2026-02-16,Cold Drink,Beverages,30.0,55.0,42
+2026-03-20,Muffins,Bakery,25.0,45.0,33
+2026-04-10,Green Tea,Beverages,120.0,200.0,36
+2026-04-12,Atta,Grains,35.0,50.0,40
+2026-04-20,Facewash,Personal Care,90.0,140.0,41
+2026-04-26,Toothpaste,Personal Care,60.0,95.0,44
+2026-02-26,Atta,Grains,35.0,50.0,28
+2026-03-13,Paneer,Dairy,180.0,260.0,53
+2026-03-06,Namkeen,Snacks,20.0,35.0,66
+2026-03-22,Ghee,Groceries,450.0,650.0,17
+2026-03-20,Atta,Grains,35.0,50.0,47
+2026-02-24,Atta,Grains,35.0,50.0,4
+2026-02-05,Cold Drink,Beverages,30.0,55.0,12
+2026-03-04,Toothpaste,Personal Care,60.0,95.0,22
+2026-04-17,Paneer,Dairy,180.0,260.0,57
+2026-03-06,Cold Drink,Beverages,30.0,55.0,36
+2026-03-21,Facewash,Personal Care,90.0,140.0,58
+2026-04-12,Facewash,Personal Care,90.0,140.0,49
+2026-03-01,Paneer,Dairy,180.0,260.0,35
+2026-03-06,Curd,Dairy,40.0,60.0,35
+2026-03-03,Cold Drink,Beverages,30.0,55.0,39
+2026-04-11,Namkeen,Snacks,20.0,35.0,45
+2026-03-17,Paneer,Dairy,180.0,260.0,41
+2026-03-27,Ghee,Groceries,450.0,650.0,70
+2026-04-25,Toothpaste,Personal Care,60.0,95.0,41
+2026-04-24,Toothpaste,Personal Care,60.0,95.0,7
+2026-02-06,Curd,Dairy,40.0,60.0,28
+2026-04-03,Atta,Grains,35.0,50.0,32
+2026-02-15,Atta,Grains,35.0,50.0,12
+2026-04-26,Cold Drink,Beverages,30.0,55.0,61
+2026-03-11,Toothpaste,Personal Care,60.0,95.0,52
+2026-03-06,Muffins,Bakery,25.0,45.0,8
+2026-03-30,Muffins,Bakery,25.0,45.0,43
+2026-02-15,Namkeen,Snacks,20.0,35.0,53
+2026-03-25,Organic Ghee,Groceries,500.0,900.0,15
+2026-02-28,Toothpaste,Personal Care,60.0,95.0,47
+2026-04-29,Curd,Dairy,40.0,60.0,7
+2026-04-03,Paneer,Dairy,180.0,260.0,64
+2026-02-01,Facewash,Personal Care,90.0,140.0,13
+2026-04-17,Muffins,Bakery,25.0,45.0,43
+2026-02-17,Facewash,Personal Care,90.0,140.0,3
+2026-03-30,Facewash,Personal Care,90.0,140.0,68
+2026-02-13,Cold Drink,Beverages,30.0,55.0,13
+2026-02-07,Facewash,Personal Care,90.0,140.0,49
+2025-11-25,Expired Curd,Dairy,40.0,60.0,0
+2026-04-07,Toothpaste,Personal Care,60.0,95.0,56
+2026-03-15,Namkeen,Snacks,20.0,35.0,45
+2026-03-21,Namkeen,Snacks,20.0,35.0,28
+2026-02-21,Green Tea,Beverages,120.0,200.0,69
+2026-03-17,Green Tea,Beverages,120.0,200.0,15
+2026-02-05,Namkeen,Snacks,20.0,35.0,29
+2026-03-06,Toothpaste,Personal Care,60.0,95.0,58
+2026-03-29,Atta,Grains,35.0,50.0,55
+2026-04-07,Green Tea,Beverages,120.0,200.0,39
+2026-02-15,Ghee,Groceries,450.0,650.0,60
+2026-04-25,Ghee,Groceries,450.0,650.0,21
+2026-03-06,Facewash,Personal Care,90.0,140.0,45
+2026-04-10,Facewash,Personal Care,90.0,140.0,57
+2026-02-14,Cold Drink,Beverages,30.0,55.0,23
+2026-02-28,Green Tea,Beverages,120.0,200.0,25
+2026-03-13,Atta,Grains,35.0,50.0,51
+2026-03-21,Muffins,Bakery,25.0,45.0,67
+2026-03-20,Paneer,Dairy,180.0,260.0,151
+2026-04-02,Namkeen,Snacks,20.0,35.0,21
+2026-04-18,Toothpaste,Personal Care,60.0,95.0,9
+2026-04-07,Namkeen,Snacks,20.0,35.0,46
+2026-03-20,Paneer,Dairy,180.0,260.0,147
+2026-02-25,Muffins,Bakery,25.0,45.0,28
+2026-04-01,No Demand Toothpaste,Personal Care,60.0,95.0,0
+2026-03-10,Green Tea,Beverages,120.0,200.0,46
+2026-02-22,Atta,Grains,35.0,50.0,39
+2026-03-16,Muffins,Bakery,25.0,45.0,6
+2026-04-22,Muffins,Bakery,25.0,45.0,60
+2026-03-30,Green Tea,Beverages,120.0,200.0,15
+2026-03-22,Cheap Namkeen,Snacks,40.0,25.0,33
+2026-03-10,Green Tea,Beverages,120.0,200.0,25
+2026-03-08,Facewash,Personal Care,90.0,140.0,13
+2026-04-28,Muffins,Bakery,25.0,45.0,59
+2026-02-24,Cold Drink,Beverages,30.0,55.0,58
+2026-04-03,Ghee,Groceries,450.0,650.0,69
+2026-04-16,Atta,Grains,35.0,50.0,21
+2026-04-13,Paneer,Dairy,180.0,260.0,52
+2026-03-31,Facewash,Personal Care,90.0,140.0,61
+2026-03-26,Cold Drink,Beverages,30.0,55.0,48
+2026-04-26,Atta,Grains,35.0,50.0,16
+2026-02-12,Cold Drink,Beverages,30.0,55.0,37
+2026-04-11,Curd,Dairy,40.0,60.0,45
+2026-03-23,Toothpaste,Personal Care,60.0,95.0,40
+2026-03-13,Curd,Dairy,40.0,60.0,21
+2026-04-15,Cold Drink,Beverages,30.0,55.0,11
+2026-04-14,Cold Drink,Beverages,30.0,55.0,38
+2026-04-05,Green Tea,Beverages,120.0,200.0,9
+2026-02-10,Curd,Dairy,40.0,60.0,52
+2026-03-13,Atta,Grains,35.0,50.0,20
+2026-03-02,Facewash,Personal Care,90.0,140.0,47
+2026-03-30,Toothpaste,Personal Care,60.0,95.0,59
+2026-04-14,Toothpaste,Personal Care,60.0,95.0,8
+2026-04-01,No Demand Toothpaste,Personal Care,60.0,95.0,0
+2026-03-06,Paneer,Dairy,180.0,260.0,68
+2026-02-02,Toothpaste,Personal Care,60.0,95.0,62
+2026-03-27,Toothpaste,Personal Care,60.0,95.0,8
+2026-05-01,Cold Drink,Beverages,30.0,55.0,28
+2026-03-14,Curd,Dairy,40.0,60.0,17
+2026-03-04,Facewash,Personal Care,90.0,140.0,18
+2026-02-14,Curd,Dairy,40.0,60.0,63
+2026-02-16,Atta,Grains,35.0,50.0,50
+2026-03-12,Green Tea,Beverages,120.0,200.0,5
+2026-02-11,Namkeen,Snacks,20.0,35.0,70
+2026-04-28,Atta,Grains,35.0,50.0,32
+2026-02-20,Atta,Grains,35.0,50.0,34
+2026-04-16,Facewash,Personal Care,90.0,140.0,49
+2026-04-07,Namkeen,Snacks,20.0,35.0,7
+2026-03-02,Green Tea,Beverages,120.0,200.0,53
+2026-04-12,Namkeen,Snacks,20.0,35.0,11
+2026-03-03,Paneer,Dairy,180.0,260.0,38
+2026-02-12,Paneer,Dairy,180.0,260.0,35
+2026-02-02,Cold Drink,Beverages,30.0,55.0,19
+2026-04-21,Facewash,Personal Care,90.0,140.0,18
+2026-04-30,Cold Drink,Beverages,30.0,55.0,35
+2026-03-07,Paneer,Dairy,180.0,260.0,48
+2026-02-24,Facewash,Personal Care,90.0,140.0,6
+2026-04-01,Cold Drink,Beverages,30.0,55.0,53
+2026-02-01,Atta,Grains,35.0,50.0,55
+2026-03-26,Curd,Dairy,40.0,60.0,45
+2026-03-10,Muffins,Bakery,25.0,45.0,21
+2026-02-07,Muffins,Bakery,25.0,45.0,70
+2026-04-02,Ghee,Groceries,450.0,650.0,14
+2026-03-07,Atta,Grains,35.0,50.0,19
+2026-04-23,Paneer,Dairy,180.0,260.0,68
+2026-03-29,Incomplete Row,Snacks,20.0,,8
+2026-02-13,Muffins,Bakery,25.0,45.0,6
+2026-04-17,Namkeen,Snacks,20.0,35.0,21
+2026-03-14,Muffins,Bakery,25.0,45.0,6
+2026-04-25,Facewash,Personal Care,90.0,140.0,22
+2026-03-07,Atta,Grains,35.0,50.0,51
+2026-04-30,Muffins,Bakery,25.0,45.0,33
+2026-02-04,Cold Drink,Beverages,30.0,55.0,31
+2026-02-16,Green Tea,Beverages,120.0,200.0,36
+2026-03-16,Toothpaste,Personal Care,60.0,95.0,54
+2026-04-24,Curd,Dairy,40.0,60.0,61
+2026-03-31,Namkeen,Snacks,20.0,35.0,32
+2026-02-23,Green Tea,Beverages,120.0,200.0,20
+2026-04-26,Curd,Dairy,40.0,60.0,53
+2026-02-08,Paneer,Dairy,180.0,260.0,60
+2026-03-14,Ghee,Groceries,450.0,650.0,52
+2026-03-07,Toothpaste,Personal Care,60.0,95.0,32
+2025-11-25,Expired Curd,Dairy,40.0,60.0,0
+2026-03-15,Cold Drink,Beverages,30.0,55.0,16
+2026-03-20,Ghee,Groceries,450.0,650.0,66
+2026-03-09,Muffins,Bakery,25.0,45.0,29
+2026-04-24,Ghee,Groceries,450.0,650.0,41
+2026-03-15,Muffins,Bakery,25.0,45.0,52
+2026-03-31,Green Tea,Beverages,120.0,200.0,18
+2026-03-22,Muffins,Bakery,25.0,45.0,25
+2026-02-16,Atta,Grains,35.0,50.0,20
+2026-02-05,Muffins,Bakery,25.0,45.0,64
+2026-02-11,Atta,Grains,35.0,50.0,28
+2026-03-11,Ghee,Groceries,450.0,650.0,26
+2026-03-20,Atta,Grains,35.0,50.0,45
